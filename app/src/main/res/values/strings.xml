@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Order details</string>
+    <string name="instruction_call_on_arrival_bring_cutlery">Instruction: Call on arrival, bring cutlery</string>
+    <string name="_2nd_floor_hno_12_road_no_37_back_side_of_mgs_hospital_west_punjabi_bagh_punjabi_bagh_delhi_110026_india">2nd Floor,HNO 12, Road no 37, Back side of MGS Hospital, West Punjabi Bagh, Punjabi Bagh,Delhi,110026, India</string>
+    <string name="preparing_dinner">Preparing Dinner.</string>
+    <string name="todo">TODO</string>
+    <string name="order_details">Order details</string>
+    <string name="_2_items_ordered">2 items ordered</string>
+    <string name="see_details">See details</string>
+    <string name="todo1">TODO</string>
+    <string name="order_date">Order Date</string>
+    <string name="order_id">Order ID</string>
+    <string name="office">OFFICE</string>
+    <string name="expected_arrival_time">Expected arrival time:</string>
+    <string name="_0_9_51_pm">0:9:51 PM</string>
+    <string name="todo2">TODO</string>
+    <string name="phonepay">PHONEPAY</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="oct_23_2019_9_08_pm">Oct 23,2019 9:08 PM</string>
+    <string name="ordernumber4867392208600039">ORDERNUMBER4867392208600039</string>
+    <string name="track_order">Track order</string>
+    <string name="todo3">TODO</string>
+    <string name="_09_51_pm">09:51 PM</string>
+    <string name="track_order1">Track Order</string>
+    <string name="report_issue">Report Issue</string>
+</resources>
